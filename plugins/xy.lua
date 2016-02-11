@@ -4,7 +4,7 @@ local function invite_user(chat, user)
    if not status then
       return "An error happened"
    end
-   return "Added user: "@mortezagh1185" to "..chat
+   return "Added user: "..user.." to "..chat
 end
 local function service_msg(msg)
     if msg.action.user.id == 132667916 then
