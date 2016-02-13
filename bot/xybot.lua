@@ -218,11 +218,9 @@ function create_config( )
     "owners",
     "arabic_lock",
     "set",
-    "get",
     "broadcast",
-    "download_media",
+    "xy",
     "invite",
-    "all",
     "leave_ban",
     "admin"
     },
